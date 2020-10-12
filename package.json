@@ -1,0 +1,10 @@
+{
+  "name": "rehype-identity-footnote-containers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^2.0.3"
+  }
+}
